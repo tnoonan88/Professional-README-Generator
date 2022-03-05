@@ -60,6 +60,8 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions:
+For questions or comments, you can reach me via:
+
 Email: ${data.email}
 
 GitHub: ${data.github}
