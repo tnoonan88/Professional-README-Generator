@@ -1,33 +1,34 @@
 # DEMO_README
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
 
 ## Description:
-This is a demo of my README generator.
+This is a demo of my professional README generator.
 
 ## Table of Contents:
-* [License](#license)
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [How to Contribute](#how-to-contribute)
 
-## License:
-Mozilla Public License 2.0
+
 
 ## Installation:
-Install npm and run in the command line.
+Install dependencies by running 'npm i' in the command line.
 
 ## Usage:
-Follow the prompts in the command line.
+In the command line, run 'node index.js' and follow the prompts.
 
 ## How to Contribute:
-Don't break my code please!
+Please don't break my code.
 
 ## Tests:
-Do test my code please.
+Use the Jest package.
 
 ## Questions:
 For questions or comments, you can reach me via:
 
-Email: TNoonan88@gmail.com
+Email: tnoonan88@gmail.com
 
-GitHub: TNoonan88
+GitHub: [tnoonan88](https://github.com/tnoonan88)
+
+[video-walkthrough](https://drive.google.com/file/d/1K9MVlvHsLJAEGsFSdtgt9Db49Tfqne7m/view)
